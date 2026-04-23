@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EPaperCtrl</string>
+    <string name="line0">Shimiken\'s</string>
+    <string name="line1">Ducky MokuMoku!!!</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_scan">Scan</string>
+    <string name="btn_config">Config</string>
+</resources>
